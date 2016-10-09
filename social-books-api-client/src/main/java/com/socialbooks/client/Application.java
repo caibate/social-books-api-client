@@ -1,12 +1,11 @@
-package com.socialbooks.api;
+package com.socialbooks.client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SocialBooksApiClientApplication {
-
+public class Application {
 	public static void main(String[] args) {
-		SpringApplication.run(SocialBooksApiClientApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }

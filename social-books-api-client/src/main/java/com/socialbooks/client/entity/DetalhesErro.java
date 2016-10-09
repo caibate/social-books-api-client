@@ -1,4 +1,4 @@
-package com.socialbooks.api.entity;
+package com.socialbooks.client.entity;
 
 public class DetalhesErro {
 	private String titulo;

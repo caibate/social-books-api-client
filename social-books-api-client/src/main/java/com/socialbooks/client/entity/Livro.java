@@ -1,4 +1,4 @@
-package com.socialbooks.api.entity;
+package com.socialbooks.client.entity;
 
 import java.util.Date;
 import java.util.List;
